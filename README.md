@@ -10,7 +10,9 @@ If the "Shop - Ship Option" Rate of a matching ship quote starts with a decimal 
 This allows us to have the following setup
 
 $1.00 - $25.00 = $5
+
 $25.01 - $50.00 = $10
+
 $50.01 - $1000000 = .25
 
 When the order is over $50.01 it will be 25% of the order total.
